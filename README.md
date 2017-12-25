@@ -12,6 +12,7 @@
 - [白话区块链--文延著](#kindle)
 - [区块链原理设计与应用--杨保华著](#kindle)
 - [精通比特币](http://book.8btc.com/master_bitcoin)
+- [精通比特币第二版](http://book.8btc.com/masterbitcoin2cn)
 - [区块链技术指南--yeasy著](https://www.gitbook.com/book/yeasy/blockchain_guide/details) 
 - [Hyperledger 源码分析之 Fabric](https://www.gitbook.com/book/yeasy/hyperledger_code_fabric/details)
 ## 课程
@@ -43,19 +44,21 @@
 
 |任务项   |   PT   |   AT|
 | ---- | ----  | ---- |
-阅读《精通比特币》   |   2017年12月31日   |   TBD
+阅读《精通比特币第2版》   |   2017年12月31日   |   TBD
 
-- 阅读书籍《精通比特币》
+- 阅读书籍《精通比特币第2版》
     - [x] 第1章 介绍
-    - 第2章
-    - 第3章
-    - 第4章
-    - 第5章
-    - 第6章
-    - 第7章
-    - 第8章
-    - 第9章
-    - 第10章
+    - [x] 第2章 比特币原理
+    - [x] 第3章 比特币客户端
+    - [x] 第4章 密钥地址
+    - [x] 第5章 钱包
+    - 第6章 交易
+    - 第7章 高级交易和脚本
+    - 第8章 比特币网络
+    - 第9章 区块链
+    - 第10章 挖矿和共识
+    - 第11章 比特币安全
+    - 第12章 比特币应用
     - 绘制思维导图
 ## 1月份学习计划
 
