@@ -16,10 +16,12 @@
 - [区块链技术指南--yeasy著](https://www.gitbook.com/book/yeasy/blockchain_guide/details) 
 - [Hyperledger 源码分析之 Fabric](https://www.gitbook.com/book/yeasy/hyperledger_code_fabric/details)
 - [比特币白皮书：一种点对点的电子现金系统](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
+
 ## 课程
 - [实验楼培训课程之构建自己的加密货币](https://www.shiyanlou.com/courses/952)
 - [IBM区块链课程](https://www.ibm.com/developerworks/community/wikis/home?lang=zh#!/wiki/W30b0c771924e_49d2_b3b7_88a2a2bc2e43/page/HyperLedger%20Fabric%E7%B3%BB%E5%88%97%E5%BE%AE%E8%AE%B2%E5%A0%82)
 - [IBM开源课堂之Fabric源码解析](https://www.ibm.com/developerworks/community/wikis/home?lang=zh#!/wiki/W30b0c771924e_49d2_b3b7_88a2a2bc2e43/page/IBM%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E5%BE%AE%E8%AE%B2%E5%A0%82)
+- 
 ## 博文
 - [比特币是什么](https://www.zhihu.com/question/22076666/answer/69638270)
 - [比特币是什么](https://www.zhihu.com/question/22076666/answer/232628039)
@@ -30,10 +32,10 @@
 - [200行代码搞懂区块链](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=2649967604&idx=1&sn=012645cc57f0d772fa262522c7c1be25)
 - [一万字带您走进密码学的世界（上）](https://mp.weixin.qq.com/s?__biz=MzIxNjc4NzkyMA==&mid=2247484874&idx=2&sn=13eb05a1154e447ac322c0c976a3800c)
 - [知乎问答之如何学习区块链知识](https://www.zhihu.com/question/51047975/answer/259779402)
-``````
-```
+
 ## 开源项目
 - https://github.com/yeasy/cello   Platform to provide Blockchain as a Service!    python项目
+- https://github.com/hyperledger/fabric   联盟链开源项目， 编程语言Golang
 
 # 计划
 > 想法开始于2017年12月21日。 区块链和加密数字货币浪潮席卷而来， 我要当一个冲浪者。 
